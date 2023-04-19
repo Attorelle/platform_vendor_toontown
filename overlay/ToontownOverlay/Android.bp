@@ -1,0 +1,12 @@
+/**
+ * Copyright (C) 2023 toontown OS
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+runtime_resource_overlay {
+    name: "ToontownOverlay",
+    certificate: "platform",
+    sdk_version: "current",
+    product_specific: true
+}
